@@ -102,7 +102,6 @@ faskowitz_mammals_2023:
     - Richard F. Betzel
     - Olaf Sporns
   year: 2023
-  pdf: /assets/docs/publications/faskowitz_mammals_2023.pdf
   code: https://github.com/faskowit/faskowitz2022mammals
   published_url: https://doi.org/10.3389/fnins.2022.1044372
   venue: Frontiers in Neuroscience
@@ -134,7 +133,6 @@ varley_partial_2023:
     - Joshua Faskowitz
     - Olaf Sporns
   year: 2023
-  pdf: /assets/docs/publications/varley_partial_2023.pdf
   published_url: https://doi.org/10.1073/pnas.2300888120
   venue: PNAS
 
@@ -149,7 +147,6 @@ paffi_dbs_2013:
     - Paolo Ravazzani
     - Micaela Liberti
   year: 2013
-  pdf: /assets/docs/publications/paffi_dbs_2013.pdf
   published_url: https://doi.org/10.1155/2013/262739
   venue: BioMed Research International
 
@@ -165,7 +162,6 @@ paffi_dbs_ieee_2013:
     - Francesca Camera
     - Micaela Liberti
   year: 2013
-  pdf: /assets/docs/publications/paffi_dbs_ieee_2013.pdf
   published_url: https://ieeexplore.ieee.org/document/6696156
   venue: 6th Annual International IEEE EMBS Conference on Neural Engineering
 
@@ -179,7 +175,6 @@ puxeddu_community_2017:
     - Donatella Mattia
     - Laura Astolfi
   year: 2017
-  pdf: /assets/docs/publications/puxeddu_community_2017.pdf
   published_url: https://ieeexplore.ieee.org/abstract/document/8037724
   venue: 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
 
@@ -190,7 +185,6 @@ puxeddu_multifrequency_2021:
     - Manuela Petti
     - Laura Astolfi
   year: 2021
-  pdf: /assets/docs/publications/puxeddu_multifrequency_2021.pdf
   published_url: https://ieeexplore.ieee.org/abstract/document/9630173
   venue: 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
@@ -202,7 +196,6 @@ puxeddu_optimal_2019:
     - Donatella Mattia
     - Laura Astolfi
   year: 2021
-  pdf: /assets/docs/publications/puxeddu_optimal_2019.pdf
   published_url: https://ieeexplore.ieee.org/abstract/document/8856674
   venue: 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
 
@@ -223,7 +216,6 @@ betzel_controlling_2024:
     - Amy Kuceyeski
     - Linden Parkes
   year: 2024
-  pdf: /assets/docs/publications/betzel_controlling_2024.pdf
   preprint: https://doi.org/10.1101/2024.02.27.581006
 
 
