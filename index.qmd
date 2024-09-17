@@ -1,7 +1,7 @@
 ---
 title: "Maria Grazia Puxeddu, Ph.D."
 ---
-<img src="/assets/images/profile.jpeg" width="20%" hspace="20" align="right">
+<img src="/assets/images/profile.jpg" width="20%" hspace="20" align="right">
 
 **Currently in the job market for a faculty position!!**
 
