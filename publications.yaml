@@ -1,0 +1,229 @@
+betzel_drosophila_2024:
+  title: "Hierarchical communities in the larval Drosophila connectome: Links to cellular annotations and network topology"
+  authors:
+    - Richard F. Betzel
+    - me
+    - Caio Seguin
+  year: 2024
+  pdf: /assets/docs/publications/betzel_drosophila_2024.pdf
+  published_url: https://doi.org/10.1073/pnas.2320177121
+  venue: PNAS
+
+puxeddu_leveraging_2024:
+  title: "Leveraging multivariate information for community detection in functional brain networks"
+  authors:
+    - me
+    - Maria Pope
+    - Thomas F. Varley
+    - Joshua Faskowitz
+    - Olaf Sporns
+  year: 2024
+  pdf: /assets/docs/publications/puxeddu_leveraging_2024.pdf
+  code: https://github.com/mariagraziaP/comm_detection_via_redundancy_optimization/tree/main
+  preprint: https://www.biorxiv.org/content/10.1101/2024.07.22.604675v1
+
+puxeddu_lifespan_2020:
+  title: "The modular organization of brain cortical connectivity across the human lifespan"
+  authors:
+    - me
+    - Joshua Faskowitz
+    - Richard F. Betzel
+    - Manuela Petti
+    - Laura Astolfi
+    - Olaf Sporns
+  year: 2023
+  pdf: /assets/docs/publications/puxeddu_lifespan_2020.pdf
+  code: https://github.com/mariagraziaP/Puxeddu2020_MultilayerModularity_Lifespan
+  published_url: https://doi.org/10.1016/j.neuroimage.2020.116974
+  venue: NeuroImage
+
+puxeddu_multimodal_2022:
+  title: "Multi-modal and multi-subject modular organization of human brain networks"
+  authors:
+    - me
+    - Joshua Faskowitz
+    - Olaf Sporns
+    - Laura Astolfi
+    - Richard F. Betzel
+  year: 2022
+  pdf: /assets/docs/publications/puxeddu_multimodal_2022.pdf
+  code: https://github.com/mariagraziaP/multimodal_multisubject_modularity
+  published_url: https://doi.org/10.1016/j.neuroimage.2022.119673
+  venue: NeuroImage
+
+puxeddu_mammals_2024:
+  title: "Relation of connectome topology to brain volume across 103 mammalian species"
+  authors:
+    - me
+    - Joshua Faskowitz
+    - Caio Seguin
+    - Yossi Yovel
+    - Yaniv Assaf
+    - Richard F. Betzel
+    - Olaf Sporns
+  year: 2024
+  pdf: /assets/docs/publications/puxeddu_mammals_2024.pdf
+  code: https://github.com/mariagraziaP/network_modularity_mammalian_connectome
+  published_url: https://doi.org/10.1371/journal.pbio.3002489
+  venue: PLOS Biology
+
+puxeddu_chapter_2024:
+  title: "Functional specialization, modularity and communication: Network models linking brain structure and function"
+  authors:
+    - me
+    - Caio Seguin
+    - Olaf Sporns
+  year: 2024
+  pdf: /assets/docs/publications/puxeddu_chapter_2024.pdf
+  code: https://github.com/mariagraziaP/chapter_DataNeuroscience
+  published_url: https://doi.org/10.1016/B978-0-12-820480-1.00165-0
+  venue: Reference Module in Neuroscience and Behavioral Psychology
+
+puxeddu_multilayer_2021:
+  title: "A Comprehensive Analysis of Multilayer Community Detection Algorithms for Application to EEG-Based Brain Networks"
+  authors:
+    - me
+    - Manuela Petti
+    - Laura Astolfi
+  year: 2021
+  pdf: /assets/docs/publications/puxeddu_multilayer_2021.pdf
+  published_url: https://doi.org/10.3389/fnsys.2021.624183
+  venue: Frontiers in Systems Neuroscience
+
+faskowitz_mammals_2023:
+  title: "Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny"
+  authors:
+    - Joshua Faskowitz
+    - me
+    - Martijn P. van den Heuvel
+    - Bratislav Misic
+    - Yossi Yovel
+    - Yaniv Assaf
+    - Richard F. Betzel
+    - Olaf Sporns
+  year: 2023
+  pdf: /assets/docs/publications/faskowitz_mammals_2023.pdf
+  code: https://github.com/faskowit/faskowitz2022mammals
+  published_url: https://doi.org/10.3389/fnins.2022.1044372
+  venue: Frontiers in Neuroscience
+
+esfahlani_modularity_2021:
+  title: "Modularity maximization as a flexible and generic framework for brain network exploratory analysis"
+  authors:
+    - Farnaz Zamani Esfahlani*
+    - Youngheun Jo*
+    - me*
+    - Haily Merritt*
+    - Jacob C. Tanner*
+    - Sarah Greenwell
+    - Riya Patel
+    - Joshua Faskowitz
+    - Richard F. Betzel
+  year: 2021
+  pdf: /assets/docs/publications/esfahlani_modularity_2021.pdf
+  code: https://github.com/brain-networks/nonstandard_modularity_maximization
+  published_url: https://doi.org/10.1016/j.neuroimage.2021.118607
+  venue: NeuroImage
+
+varley_partial_2023:
+  title: "Partial entropy decomposition reveals higher-order information structures in human brain activity"
+  authors:
+    - Thomas F. Varley
+    - Maria Pope
+    - me
+    - Joshua Faskowitz
+    - Olaf Sporns
+  year: 2023
+  pdf: /assets/docs/publications/varley_partial_2023.pdf
+  published_url: https://doi.org/10.1073/pnas.2300888120
+  venue: PNAS
+
+paffi_dbs_2013:
+  title: "A Numerical Study to Compare Stimulations by Intraoperative Microelectrodes and Chronic Macroelectrodes in the DBS Technique"
+  authors:
+    - Alessandra Paffi
+    - Francesca Apollonio
+    - me
+    - Marta Parazzini
+    - Guglielmo d'Inzeo
+    - Paolo Ravazzani
+    - Micaela Liberti
+  year: 2013
+  pdf: /assets/docs/publications/paffi_dbs_2013.pdf
+  published_url: https://doi.org/10.1155/2013/262739
+  venue: BioMed Research International
+
+paffi_dbs_ieee_2013:
+  title: "A Dosimetric Study Comparing Intra-Operatory Microelectrode and Chronic Macroelectrode in the DBS Technique"
+  authors:
+    - Alessandra Paffi
+    - Francesca Apollonio
+    - me
+    - Marta Parazzini
+    - Guglielmo d'Inzeo
+    - Paolo Ravazzani
+    - Francesca Camera
+    - Micaela Liberti
+  year: 2013
+  pdf: /assets/docs/publications/paffi_dbs_ieee_2013.pdf
+  published_url: https://ieeexplore.ieee.org/document/6696156
+  venue: 6th Annual International IEEE EMBS Conference on Neural Engineering
+
+puxeddu_community_2017:
+  title: "Community detection: comparison among clustering algorithms and application to EEG-based brain networks"
+  authors:
+    - me
+    - Manuela Petti
+    - Floriana Pichiorri
+    - Febo Cincotti
+    - Donatella Mattia
+    - Laura Astolfi
+  year: 2017
+  pdf: /assets/docs/publications/puxeddu_community_2017.pdf
+  published_url: https://ieeexplore.ieee.org/abstract/document/8037724
+  venue: 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+
+puxeddu_multifrequency_2021:
+  title: "Multi-layer analysis of multi-frequency brain networks as a new tool to study EEG topological organization"
+  authors:
+    - me
+    - Manuela Petti
+    - Laura Astolfi
+  year: 2021
+  pdf: /assets/docs/publications/puxeddu_multifrequency_2021.pdf
+  published_url: https://ieeexplore.ieee.org/abstract/document/9630173
+  venue: 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+
+puxeddu_optimal_2019:
+  title: "The Optimal Setting for Multilayer Modularity Optimization in Multilayer Brain Networks"
+  authors:
+    - me
+    - Manuela Petti
+    - Donatella Mattia
+    - Laura Astolfi
+  year: 2021
+  pdf: /assets/docs/publications/puxeddu_optimal_2019.pdf
+  published_url: https://ieeexplore.ieee.org/abstract/document/8856674
+  venue: 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+
+betzel_controlling_2024:
+  title: "Controlling the human connectome with spatially diffuse input signals"
+  authors:
+    - Richard F. Betzel
+    - me
+    - Caio Seguin
+    - Vincent Bazinet
+    - Andrea Luppi
+    - Alina Podschun
+    - S. Parker Singleton
+    - Joshua Faskowitz
+    - Vibin Parakkattu
+    - Bratislav Misic
+    - Sebastian Markett
+    - Amy Kuceyeski
+    - Linden Parkes
+  year: 2024
+  pdf: /assets/docs/publications/betzel_controlling_2024.pdf
+  preprint: https://doi.org/10.1101/2024.02.27.581006
+
+
