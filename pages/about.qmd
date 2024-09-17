@@ -4,11 +4,15 @@ title: "About"
 
 Hello! Here follows a brief presentation of my academic path and interests.
 
+## Academic trajectory
+
 I completed my Ph.D. in Bioengineering in February 2020 under the supervision of Laura Astolfi at the University of Rome La Sapienza. In those years I mostly focused on studying methods and concepts of network science and validating them on brain networks. 
 
 I had a postdoc position lined up at Indiana University Bloomington to work in the laboratory of Olaf Sporns, but pandemic hit right after graduation (UGH!), so I had to wait a while before officially moving to the USA. But eventually, I made it! During my postdoc, I initiated several lines of research: I explored the relationship between brain topology, brain volume, and brain phylogeny in an extensive mammalian dataset; I investigated the relationship between the braian's structural and functional architectures through the lens of network modularity and network communication; I put my hands on a non-human, non-MRI-based, complete (!) connectome and inferred how its topology underpins neurobiology at the cellular level. Last but not least, I incorporated Network Control Theory and Information Theory in my suite of analytic tools to investigate brain networks! 
 
 Throughout my training, I had the opportunity to investigate lifespan data, establishing age-related trends in the reorganization of the human connectome. I also focused on identifying subject-specific features of brain topological organization and hope to link these findings to cognitive functions and behavior in future research.
+
+## Research interests
 
 Moving forward, I want to leverage my interdisciplinary background to address foundamental questions in neuroscience, such as: how does the anatomical architecture inform the functional connectivity? How does brain architecture reorganize over short timescales to enable cognition, or longer
 timescales to adapt to changes over the lifespan? Can we use such relationships to find biomarkers of neurodegenerative diseases?
@@ -17,7 +21,7 @@ Since last March I am back to Rome, but I am on the job market for a faculty pos
 
 ## Other interests I have
 
-<img src="/assets/images/hilly_half.jpg" width="40%" hspace="20" align="right">  
+<img src="/assets/images/hilly_half.jpg" width="45%" hspace="20" align="right">  
 
 If I am not working, you'll probably find me running (I have run a few half-marathons!!), roasting coffee with a popcorn machine, or daydreaming about having a yellow house with a cat!
 
