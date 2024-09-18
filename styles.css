@@ -1,1 +1,34 @@
 /* css styles */
+
+.btn {
+    background-color: #34495E; /* Custom background color */
+    color: white; /* Custom text color */
+}
+
+.btn:hover {
+    background-color: #eaecee; /* Background color on hover */
+}
+
+
+
+.navbar {
+    background-color: teal; /* Background color of the navbar */
+    color: white;
+}
+
+.navbar a {
+    color: white; /* Text color for the links */
+}
+
+.navbar a:hover {
+    color: black; /* Text color on hover */
+}
+
+.navbar a:active {
+    color: #1b2631;
+}
+
+
+a {
+    color: teal; /* Normal link color */
+}
