@@ -7,8 +7,8 @@ I'm a postdoc at the University of Rome La Sapienza, working in network neurosci
 
 My research is interdisciplinary, at the intersection between neuroscience, network science, and complex systems.  I'm primarily interested in how the brain's anatomical architecture constrains its functional repertoire, as well as how brain networks evolve over time or across individuals in response to factors such as cognitive load, development, aging, or disease. 
 
-But there's a lot more! If you're interested in these lines of research feel free to [reach out][1]!
+But there's a lot more! If you're interested in these lines of research feel free to reach out</a>! 
 
 
-[1]: https://mailto:mariagrazia.puxeddu@gmail.com 
+<a href="mailto:mariagrazia.puxeddu@gmail.com">
 
