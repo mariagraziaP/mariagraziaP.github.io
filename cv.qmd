@@ -1,4 +1,4 @@
 ---
 title: "CV"
 ---
-Please see my [CV](/assets/docs/cv_puxeddu_2025.pdf) here.
+Please see my [CV](/assets/docs/cv_puxeddu.pdf) here.
