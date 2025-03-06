@@ -10,5 +10,5 @@ My research is interdisciplinary, at the intersection between neuroscience, netw
 But there's a lot more! If you're interested in these lines of research feel free to [reach out][1]!
 
 
-[1] https://mailto:mariagrazia.puxeddu@gmail.com 
+[1]: https://mailto:mariagrazia.puxeddu@gmail.com 
 
