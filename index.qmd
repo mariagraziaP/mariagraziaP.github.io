@@ -11,6 +11,6 @@ But there's a lot more! If you're interested in these lines of research feel fre
 
 ## Recent news
 
-Starting next fall I'll be joining the School of Neuroscience[1] at Virginia Tech as an Assistant Professor!
+Starting next fall I'll be joining the [School of Neuroscience][1] at Virginia Tech as an Assistant Professor!
 
 [1]: https://neuroscience.vt.edu/
