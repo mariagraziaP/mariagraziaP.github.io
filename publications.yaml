@@ -211,6 +211,45 @@ puxeddu_optimal_2019:
   published_url: https://ieeexplore.ieee.org/abstract/document/8856674
   venue: 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
 
+seguin_connectome_2025:
+  title: "Connectome architecture favours within-module diffusion and between-module routing"
+  authors:
+    - Caio Seguin
+    - me
+    - Joshua Faskowitz
+    - Richard Betzel
+    - Olaf Sporns
+  year: 2025
+  preprint: https://www.biorxiv.org/content/10.1101/2025.02.10.637586v1.abstract
+
+  seguin_neuroanatomical_2025:
+  title: "Neuroanatomical pathways of TMS therapy for depression"
+  authors:
+    - Caio Seguin
+    - Sina Mansour
+    - Richard Betzel
+    - Evgeny J. Chumin
+    - me
+    - Jinglei Lv
+    - Linden Parkes
+    - Luca Cocchi
+    - Paul B. Fitzgerald
+    - Robin F. H. Cash
+    - Andrew Zalesky
+  year: 2025
+  preprint: https://www.medrxiv.org/content/10.1101/2025.02.10.25322034v1
+
+betzel_parallel_2024:
+  title: "Parallel and converging multisensory cascades in the Drosophila connectome"
+  authors:
+    - Richard F. Betzel
+    - me
+    - Caio Seguin
+    - Bratislav Misic
+  year: 2024
+  preprint: https://www.biorxiv.org/content/10.1101/2024.12.04.624189v1.abstract
+
+
 betzel_controlling_2024:
   title: "Controlling the human connectome with spatially diffuse input signals"
   authors:
