@@ -69,7 +69,7 @@ def load_publication_data(path):
         elif thesis_type is not None:
             if year_str not in pub_strs["theses"]:
                 pub_strs["theses"][year_str] = []
-            buttons.append(button(pub_url, "Published", "ai-archive"))
+            buttons.append(button(pub_url, "Link", "ai-archive"))
             pub_strs["theses"][year_str].append(
                 "<li class='list-group-item'>"
                 + pub_str
@@ -80,7 +80,7 @@ def load_publication_data(path):
         else:
             if year_str not in pub_strs["pubs"]:
                 pub_strs["pubs"][year_str] = []
-            buttons.append(button(pub_url, "Published", "ai-archive"))
+            buttons.append(button(pub_url, "Link", "ai-archive"))
             pub_strs["pubs"][year_str].append(
                 "<li class='list-group-item'>"
                 + pub_str
