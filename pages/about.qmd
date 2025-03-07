@@ -17,8 +17,6 @@ Throughout my training, I had the opportunity to investigate lifespan data, esta
 Moving forward, I want to leverage my interdisciplinary background to address foundamental questions in neuroscience, such as: how does the anatomical architecture inform the functional connectivity? How does brain architecture reorganize over short timescales to enable cognition, or longer
 timescales to adapt to changes over the lifespan? Can we use such relationships to find biomarkers of neurodegenerative diseases?
 
-Since last March I am back to Rome, but I am on the job market for a faculty position! Check out my [Github][1] and my [google scholar][2] if you're curious about my work, and feel free to reach out!
-
 ## Other interests I have 🌻
 
 <img src="/assets/images/hilly_half.jpg" width="45%" hspace="20" align="right">  
@@ -26,12 +24,6 @@ Since last March I am back to Rome, but I am on the job market for a faculty pos
 If I am not working, you'll probably find me running (I have run a few half-marathons!!), roasting coffee with a popcorn machine, or daydreaming about having a yellow house with a cat!
 
 
-
-
-
-[1]: https://github.com/mariagraziaP
-
-[2]: https://scholar.google.es/citations?user=uHvZ9l8AAAAJ&hl=en
 
 
 
