@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-## Overview
+## Overview 🧠🕸️
 
 Over the past two decades, network neuroscience has transformed our understanding of brain function, shifting the focus from reductionist theories to systems-level perspectives. Traditional approaches sought to explain cognition, behavior, and mental disorders at the level of individual neurons, neural populations, or brain regions. However, we now recognize that these phenomena are emerging properties of complex interactions between neural systems.
 
