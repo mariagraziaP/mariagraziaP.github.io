@@ -12,11 +12,6 @@ I had a postdoc position lined up at Indiana University Bloomington to work in t
 
 Throughout my training, I had the opportunity to investigate lifespan data, establishing age-related trends in the reorganization of the human connectome. I also focused on identifying subject-specific features of brain topological organization and hope to link these findings to cognitive functions and behavior in future research.
 
-## Research interests 🧠
-
-Moving forward, I aim to leverage my interdisciplinary background to investigate foundamental questions in neuroscience, such as: how does the anatomical architecture inform the functional connectivity? How does brain architecture reorganize over short timescales to enable cognition, or longer
-timescales to adapt to changes over the lifespan? Can we use such relationships to find biomarkers of neurodegenerative diseases?
-
 ## Other interests I have 🌻
 
 <img src="/assets/images/hilly_half.jpg" width="45%" hspace="20" align="right">  
