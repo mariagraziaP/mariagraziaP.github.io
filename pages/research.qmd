@@ -1,0 +1,22 @@
+---
+title: "Research"
+---
+
+## Overview
+
+Over the past two decades, network neuroscience has transformed our understanding of brain function, shifting the focus from reductionist theories to systems-level perspectives. Traditional approaches sought to explain cognition, behavior, and mental disorders at the level of individual neurons, neural populations, or brain regions. However, we now recognize that these phenomena are emerging properties of complex interactions between neural systems.
+
+In my lab, we study the brain as a network of interconnected elements, where nodes represent neural elements—ranging from single neurons to large-scale brain areas—and edges capture their anatomical or functional relationships. By leveraging advances in neuroimaging and network science, we aim to uncover the fundamental principles governing brain organization and dynamics.
+
+Our research explores key questions in neuroscience, including:
+•	What are the organizational principles of brain networks?
+•	How does the brain’s anatomical architecture shape its functional repertoire?
+•	How does the brain reorganize over short timescales to support cognition and over longer timescales to adapt across the lifespan?
+•	Can we identify network-based biomarkers for neurodegenerative diseases?
+
+Through an interdisciplinary approach, we integrate computational modeling, neuroimaging, and data-driven network analyses to better understand the brain as a complex system.
+
+
+
+
+ 

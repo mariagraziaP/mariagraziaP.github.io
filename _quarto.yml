@@ -14,6 +14,7 @@ website:
       - pages/publications.qmd
       - cv.qmd
       - pages/about.qmd
+      - pages/research.qmd
   page-footer:
         right:
         - icon: envelope
