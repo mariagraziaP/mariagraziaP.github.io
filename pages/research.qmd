@@ -30,13 +30,17 @@ Brain networks exhibit a modular. They present highly interconnected groups of n
 
 Structural connectivity represents the anatomical wiring of the brain. This anatomical layout constrains neural signaling, giving rise to patterns of statistical dependencies between the activity of distinct neural elements—a phenomenon known as functional connectivity. We investigate the relationship between structure and function in both human and non-human brain networks by advancing multi-modal analyses and exploring empirical and simulated perturbation processes.
 
-<img src="/assets/images/scfc.jpg" width="70%" hspace="20" align="center"> 
+<div style="text-align: center;">
+    <img src="/assets/images/scfc.jpg" width="70%">
+</div>
 
 ### Time-varying connectivity
 
 We employ and advance multi-layer modeling to investigate how brain networks reconfigure over time. By tracking brain network topology over short timescales (seconds) we aim to uncover organizational principles that underly cognitive functioning. Conversely, by observing changes over longer timescales (days or years) we seek to clarify the developmental and aging processes that the human brain undergoes. In both cases, it is critical to observe differences and commonalities across individuals to disentangle the drivers of cognition and lifespan adaptations from circuits that have a bearing on individuality and can be associated, for instance, with cognitive performance.
 
-<img src="/assets/images/timevarying.jpg" width="70%" hspace="20" align="center"> 
+<div style="text-align: center;">
+    <img src="/assets/images/timevarying.jpg" width="80%">
+</div>
 
 ### Cross-species investigations
 
