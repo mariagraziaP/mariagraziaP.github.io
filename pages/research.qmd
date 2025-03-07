@@ -32,7 +32,6 @@ Structural connectivity represents the anatomical wiring of the brain. This anat
 
 <img src="/assets/images/scfc.jpg" width="70%" hspace="20" align="center"> 
 
-
 ### Time-varying connectivity
 
 We employ and advance multi-layer modeling to investigate how brain networks reconfigure over time. By tracking brain network topology over short timescales (seconds) we aim to uncover organizational principles that underly cognitive functioning. Conversely, by observing changes over longer timescales (days or years) we seek to clarify the developmental and aging processes that the human brain undergoes. In both cases, it is critical to observe differences and commonalities across individuals to disentangle the drivers of cognition and lifespan adaptations from circuits that have a bearing on individuality and can be associated, for instance, with cognitive performance.
