@@ -11,10 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - pages/publications.qmd
-      - cv.qmd
-      - pages/about.qmd
       - pages/research.qmd
+      - pages/publications.qmd
+      - pages/about.qmd
+      - cv.qmd
   page-footer:
         right:
         - icon: envelope
