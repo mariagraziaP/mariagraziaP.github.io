@@ -24,5 +24,8 @@ Through an interdisciplinary approach, we integrate computational modeling, neur
 
 Brain networks exhibit a modular. They present highly interconnected groups of nodes (communities or modules) that are only weakly connected to one another. This architecture facilitates a balance between functional specialization and interregional integration, a fundamental principle that underlies brain functioning. We advance methods to uncover modular structure in  the brain to better understand its relation to cognition and behavior, as well as its role in neurodegenerative diseases and mental disorders.
 
+### Structure-function relationships
+
+Structural connectivity represents the anatomical wiring of the brain. This anatomical layout constrains neural signaling, giving rise to patterns of statistical dependencies between the activity of distinct neural elements—a phenomenon known as functional connectivity. We investigate the relationship between structure and function in both human and non-human brain networks by advancing multi-modal analyses and exploring empirical and simulated perturbation processes.
 
  
