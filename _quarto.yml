@@ -18,7 +18,7 @@ website:
   page-footer:
         right:
         - icon: envelope
-          href: https://mailto:mariagrazia.puxeddu@gmail.com 
+          href: mailto:mariagrazia.puxeddu@gmail.com 
         - icon: github
           href: https://github.com/mariagraziaP
         - icon: twitter 
