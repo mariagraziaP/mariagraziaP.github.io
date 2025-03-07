@@ -1,1 +1,17 @@
 /* css styles */
+
+/* Custom CSS for Navigation Bar */
+.navbar {
+    background-color: #138d75;  /* Change navbar background color */
+    color: #ffffff;  /* Change navbar text color */
+}
+
+/* Custom CSS for Buttons */
+.btn {
+    background-color: #ffffff;  /* Change button color */
+    color: #2e4053;  /* Button text color */
+}
+
+.btn:hover {
+    background-color: #138d75;  /* Button color on hover */
+}
