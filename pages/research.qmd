@@ -8,7 +8,7 @@ Over the past two decades, network neuroscience has transformed our understandin
 
 In my lab, we will study the brain as a network of interconnected elements, where nodes represent neural elements—ranging from single neurons to large-scale brain areas—and edges capture their anatomical or functional relationships. By leveraging advances in neuroimaging and network science, we aim to uncover the fundamental principles governing brain organization and dynamics.
 
-Our research will explores key questions in neuroscience, including:
+Our research will explore key questions in neuroscience, including:
 <ul>
 <li>What are the organizational principles of brain networks?</li>
 <li>How does the brain’s anatomical architecture shape its functional repertoire?</li>
