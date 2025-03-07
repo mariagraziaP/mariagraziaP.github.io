@@ -30,9 +30,7 @@ Brain networks exhibit a modular. They present highly interconnected groups of n
 
 Structural connectivity represents the anatomical wiring of the brain. This anatomical layout constrains neural signaling, giving rise to patterns of statistical dependencies between the activity of distinct neural elements—a phenomenon known as functional connectivity. We investigate the relationship between structure and function in both human and non-human brain networks by advancing multi-modal analyses and exploring empirical and simulated perturbation processes.
 
-<div style="text-align: center;">
-    <img src="/assets/images/scfc.jpg" width="70%">
-</div>
+<img src="/assets/images/scfc.jpg" width="25%" hspace="70" align="right"> 
 
 ### Time-varying connectivity
 
