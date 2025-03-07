@@ -4,7 +4,7 @@ title: "About"
 
 Hello! Here follows a brief presentation of my academic path and interests.
 
-## Academic trajectory
+## Academic trajectory 🎓
 
 I completed my Ph.D. in Bioengineering in February 2020 under the supervision of Laura Astolfi at the University of Rome La Sapienza. In those years I mostly focused on studying methods and concepts of network science and validating them on brain networks. 
 
@@ -12,14 +12,14 @@ I had a postdoc position lined up at Indiana University Bloomington to work in t
 
 Throughout my training, I had the opportunity to investigate lifespan data, establishing age-related trends in the reorganization of the human connectome. I also focused on identifying subject-specific features of brain topological organization and hope to link these findings to cognitive functions and behavior in future research.
 
-## Research interests
+## Research interests 🧠
 
 Moving forward, I want to leverage my interdisciplinary background to address foundamental questions in neuroscience, such as: how does the anatomical architecture inform the functional connectivity? How does brain architecture reorganize over short timescales to enable cognition, or longer
 timescales to adapt to changes over the lifespan? Can we use such relationships to find biomarkers of neurodegenerative diseases?
 
 Since last March I am back to Rome, but I am on the job market for a faculty position! Check out my [Github][1] and my [google scholar][2] if you're curious about my work, and feel free to reach out!
 
-## Other interests I have
+## Other interests I have 🌻
 
 <img src="/assets/images/hilly_half.jpg" width="45%" hspace="20" align="right">  
 
