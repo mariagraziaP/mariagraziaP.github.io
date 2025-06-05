@@ -21,7 +21,7 @@ betzel_drosophila_2024:
   published_url: https://doi.org/10.1073/pnas.2320177121
   venue: PNAS
 
-puxeddu_leveraging_2024:
+puxeddu_commsbio_2025:
   title: "Leveraging multivariate information for community detection in functional brain networks"
   authors:
     - me
@@ -29,10 +29,11 @@ puxeddu_leveraging_2024:
     - Thomas F. Varley
     - Joshua Faskowitz
     - Olaf Sporns
-  year: 2024
+  year: 2025
   pdf: /assets/docs/publications/puxeddu_leveraging_2024.pdf
   code: https://github.com/mariagraziaP/comm_detection_via_redundancy_optimization/tree/main
-  preprint: https://www.biorxiv.org/content/10.1101/2024.07.22.604675v1
+  published_url: https://www.nature.com/articles/s42003-025-08198-2
+  venue: Nature Communication Biology
 
 puxeddu_lifespan_2020:
   title: "The modular organization of brain cortical connectivity across the human lifespan"
