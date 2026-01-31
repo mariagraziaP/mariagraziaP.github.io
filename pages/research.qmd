@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-<img src="/assets/images/lablogo.jpg" width="20%" hspace="20" align="left">
+<img src="/assets/images/lablogo.jpg" width="80%" hspace="20" align="right">
 
 
 ## Overview 🧠🕸️
