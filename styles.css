@@ -3,7 +3,8 @@
 /* Custom CSS for Navigation Bar */
 .navbar {
     background-color: rgb(134, 31, 65);  /* Change navbar background color */
-    color: #f0f3f4 !important;  /* Change navbar text color */
+    color: white;  /* Change navbar text color */
+    
 }
 
 /* Custom CSS for Buttons */
