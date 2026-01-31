@@ -33,9 +33,9 @@
 /* Custom CSS for hyperlinks */
 
 a:link {
-    color: rgb(0, 102, 102);
+    color: rgb(102, 78, 78);
 }
 
 a:hover {
-    color: rgb(0, 76, 76);
+    color: rgb(0, 128, 128);
 }
