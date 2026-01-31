@@ -3,14 +3,16 @@ title: "Maria Grazia Puxeddu, Ph.D."
 ---
 <img src="/assets/images/profile.jpg" width="20%" hspace="20" align="right">
 
-I'm a postdoc at the University of Rome La Sapienza, working in network neuroscience. 
+I'm an Assistant Professor in the [School of Neuroscience][1] at Virginia Tech, working in network neuroscience. 
 
-My research is interdisciplinary, at the intersection between neuroscience, network science, and complex systems.  I'm primarily interested in how the brain's anatomical architecture constrains its functional repertoire, as well as how brain networks evolve over time or across individuals in response to factors such as cognitive load, development, aging, or disease. 
+My research is interdisciplinary, at the intersection between neuroscience, network science, and complex systems.
+In my lab we are primarily interested in how the brain's anatomical architecture constrains its functional repertoire, as well as how brain networks evolve over time or across individuals in response to factors such as cognitive load, development, aging, or disease. 
 
-But there's a lot more! If you're interested in these lines of research feel free to <a href="mailto:mariagrazia.puxeddu@gmail.com">reach out</a>! 
+But there's a lot more! If you're interested in these lines of research feel free to <a href="mailto:mpuxeddu@vt.edu">reach out</a>! 
 
 ## Recent news 📰
 
-Starting in fall 2025, I will be joining the [School of Neuroscience][1] at Virginia Tech as an Assistant Professor!  
+We are recruiting at all levels! We welcome interest from curious and motivated individuals who want to be part of an inclusive and supportive research team!
+Reach out with questions at <a href="mailto:mpuxeddu@vt.edu">mpuxeddu at vt dot edu</a>
 
 [1]: https://neuroscience.vt.edu/
