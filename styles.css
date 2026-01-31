@@ -7,8 +7,14 @@
     
 }
 
-.navbar:hover{
-    color: rgb(233, 131, 48);
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: white !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+    color: rgb(233, 131, 48) !important;
 }
 
 /* Custom CSS for Buttons */
