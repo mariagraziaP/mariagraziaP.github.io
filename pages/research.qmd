@@ -1,8 +1,9 @@
 ---
+<img src="/assets/images/lablogo.jpg" width="50%" hspace="20" align="right">
+
 title: "Research"
 ---
 
-<img src="/assets/images/lablogo.jpg" width="50%" hspace="20" align="right">
 
 
 ## Overview 🧠🕸️
