@@ -13,7 +13,7 @@ website:
         text: Home
       - pages/research.qmd
       - pages/publications.qmd
-      - pages/about.qmd
+      #- pages/about.qmd
       - cv.qmd
   page-footer:
         right:
